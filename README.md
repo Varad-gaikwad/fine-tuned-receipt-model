@@ -1,7 +1,5 @@
 # cooked.exe: Receipt Extraction with a Fine-Tuned Gemma 4
 
-LINK: https://056a0c1ff2c72136f6.gradio.live/
-
 Raw receipt image in, structured JSON out.
 
 This project fine-tunes **Gemma 4 E2B** (4-bit, LoRA) to extract four fields from scanned receipts: `company`, `date`, `address` and `total`. It compares the fine-tuned model against the plain model and against the plain model with a carefully written prompt, and ships a side-by-side Gradio demo.
