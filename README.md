@@ -1,5 +1,7 @@
 # cooked.exe: Receipt Extraction with a Fine-Tuned Gemma 4
 
+LINK: https://056a0c1ff2c72136f6.gradio.live/
+
 Raw receipt image in, structured JSON out.
 
 This project fine-tunes **Gemma 4 E2B** (4-bit, LoRA) to extract four fields from scanned receipts: `company`, `date`, `address` and `total`. It compares the fine-tuned model against the plain model and against the plain model with a carefully written prompt, and ships a side-by-side Gradio demo.
@@ -56,21 +58,6 @@ All numbers come from **150 held-out test receipts** (the first 150 rows of the 
 4. **Output format was never the problem.** All three conditions produced valid JSON 100% of the time.
 
 ---
-
-## Error analysis (fine-tuned model, 150 receipts)
-
-Each wrong prediction was categorised by string similarity to the label.
-
-| Field | Format-only (near-miss) | Partial | Wrong text | Real errors (partial + wrong) |
-|---|---|---|---|---|
-| address | 49 | 7 | 12 | 19 |
-| company | 13 | 3 | 10 | 13 |
-| date | 6 | 0 | 3 | 3 |
-| total | 2 | 7 | 21 | 28 |
-
-- Most address "errors" are formatting differences. Only about 13% of addresses are actually wrong.
-- **Total is the weakest field.** 28 of its 30 errors are real wrong values, not formatting.
-- The categories are heuristic (based on string similarity). We have not manually verified why each total is wrong.
 
 ### Proposed improvements
 
