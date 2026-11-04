@@ -1,0 +1,401 @@
+,valid_json,company,date,address,total,raw
+0,1,1,1,0,1,"```json
+{
+  ""company"": ""OJC MARKETING SDN BHD"",
+  ""date"": ""15/01/2019"",
+  ""address"": ""NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR"",
+  ""total"": ""193.00""
+}
+```"
+1,1,1,1,1,1,"```json
+{
+  ""company"": ""OJC MARKETING SDN BHD"",
+  ""date"": ""02/01/2019"",
+  ""address"": ""NO 2 & 4, JALAN BAYU 4, BANDAR SERI ALAM, 81750 MASAI, JOHOR"",
+  ""total"": ""170.00""
+}
+```"
+2,1,0,1,0,1,"```json
+{
+  ""company"": ""PERNIAAN ZHENG HUI"",
+  ""date"": ""09/02/2018"",
+  ""address"": ""NO.52 JALAN PERMAS 95 BANDAR SARU PERMAS JAYA 81750 JOHOR BAHRU"",
+  ""total"": ""436.20""
+}
+```"
+3,1,0,1,0,0,"```json
+{
+  ""company"": ""PETRON BKT LANJAN SB ALSERKAM ENTERPRISE"",
+  ""date"": ""01/02/2018"",
+  ""address"": ""KM 458.4 BKT LANJAN UTARA, L/RAYA UTARA SELATAN,SG BULOH"",
+  ""total"": ""5.00""
+}
+```"
+4,1,1,1,0,1,"```json
+{
+  ""company"": ""Gerbang Alaf Restaurants Sdn Bhd"",
+  ""date"": ""18/01/2018"",
+  ""address"": ""Level 6, Bangunan TH, Damansara Uptown3 No.3, Jalan SS21/39, 47400 Petaling Jaya Selangor"",
+  ""total"": ""38.90""
+}
+```"
+5,1,1,1,0,1,"```json
+{
+  ""company"": ""SIN LIANHAP SDN BHD"",
+  ""date"": ""05/02/2018"",
+  ""address"": ""LOT 13, JALAN IPOH, KG BATU 30, ULU YAM LAMA, SELANGOR"",
+  ""total"": ""7.30""
+}
+```"
+6,1,1,1,1,0,"```json
+{
+  ""company"": ""CROSS CHANNEL NETWORK SDN. BHD."",
+  ""date"": ""29/01/2018"",
+  ""address"": ""47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR."",
+  ""total"": ""6.36""
+}
+```"
+7,1,1,1,1,0,"```json
+{
+  ""company"": ""CROSS CHANNEL NETWORK SDN. BHD."",
+  ""date"": ""31/12/2017"",
+  ""address"": ""47, JALAN MERANTI 1, SEK. 3, BANDAR UTAMA BATANG KALI, 44300 BATANG KALI, SELANGOR."",
+  ""total"": ""10.00""
+}
+```"
+8,1,1,1,0,0,"```json
+{
+  ""company"": ""SWC ENTERPRISE SDN BHD"",
+  ""date"": ""08/01/2018"",
+  ""address"": ""NO. 5-7, Jalan Mahagoni 7/1, Sekysen 4, Bandar Utama, 44300 Batang Kali, Selangor"",
+  ""total_amount"": ""10.00""
+}
+```"
+9,1,1,1,1,0,"```json
+{
+  ""company"": ""LIGHTROOM GALLERY SDN BHD"",
+  ""date"": ""20/11/2017"",
+  ""address"": ""NO: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA"",
+  ""total"": ""RM 278.80""
+}
+```"
+10,1,0,1,0,0,"```json
+{
+  ""company"": ""Unknown"",
+  ""date"": ""20-11-17"",
+  ""address"": ""41150 KLANG, SELANGOR"",
+  ""total"": ""169.78""
+}
+```"
+11,1,1,1,1,1,"```json
+{
+  ""company"": ""SECURE PARKING CORPORATION S/B"",
+  ""date"": ""23.03.18"",
+  ""address"": ""Riverwalk Village Batu 3, Jalan Ipoh 51200 KL."",
+  ""total"": ""1.00""
+}
+```"
+12,1,1,1,1,0,"```json
+{
+  ""company"": ""LIGHTROOM GALLERY SDN BHD"",
+  ""date"": ""20/11/2017"",
+  ""address"": ""NO: 28, JALAN ASTANA 1C, BANDAR BUKIT RAJA, 41050 KLANG SELANGOR D.E, MALAYSIA"",
+  ""total"": ""RM 278.80""
+}
+```"
+13,1,0,1,0,1,"```json
+{
+  ""company"": ""OLDTOWN WHITE COFFEE"",
+  ""date"": ""22 Mar 18"",
+  ""address"": ""Old Town Kopitiam Sdn Bhd (716269-X) Sri Rampai"",
+  ""total"": ""30.25""
+}
+```"
+14,1,1,1,0,1,"```json
+{
+  ""company"": ""UROKO JAPANESE CUISINE SDN BHD"",
+  ""date"": ""20/03/2018"",
+  ""address"": ""22A-1, JALAN 17/54, SECTION 17, 46400 PETALING JAYA, SELANGOR"",
+  ""total"": ""53.00""
+}
+```"
+15,1,1,1,0,1,"```json
+{
+  ""company"": ""TED HENG STATIONERY & BOOKS"",
+  ""date"": ""27/01/2018"",
+  ""address"": ""NO. 83, JALAN BESAR, MASSO BATANG, BERMINAI"",
+  ""total"": ""27.35""
+}
+```"
+16,1,0,1,0,1,"```json
+{
+  ""company"": ""TED HENG STATIONERY & BOOKS"",
+  ""date"": ""15/03/2018"",
+  ""address"": ""NO. 53, JALAN KESAR, 45000 BATANG SEHARI"",
+  ""total"": ""127.20""
+}
+```"
+17,1,0,1,0,1,"```json
+{
+  ""company"": ""TED HENG STATIONERY & BOOKS"",
+  ""date"": ""29/01/2018"",
+  ""address"": ""NO. 53, JALAN BESAR, 45600 BATANG BERJUNTAI SELANGOR DARUL EHSAAN"",
+  ""total"": ""1.05""
+}
+```"
+18,1,1,1,0,0,"```json
+{
+  ""company"": ""SWC ENTERPRISE SDN BHD"",
+  ""date"": ""02/01/2018"",
+  ""address"": ""B 10, Jalan Ijek Permai 1, Pusat Niaga Ijek Permai, 48000 Ijek, Selangor."",
+  ""total"": ""46.00""
+}
+```"
+19,1,1,1,0,1,"```json
+{
+  ""company"": ""F&P PHARMACY"",
+  ""date"": ""02/03/2018"",
+  ""address"": ""NO.20 GROUND FLOOR, JALAN BS 10/6 TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN, SELANGOR DARUL EHSAN"",
+  ""total"": ""31.90""
+}
+```"
+20,1,1,0,0,1,"```json
+{
+  ""company"": ""UNIHAKKA INTERNATIONAL SDN BHD"",
+  ""date"": ""07 Mar 2018 18:22"",
+  ""address"": ""12, Jalan Tampoi 3/4, Kembangan Industrian, Tampoi 81200 Johor Bahru, Johor"",
+  ""total"": ""$8.20""
+}
+```"
+21,1,1,0,0,0,"```json
+{
+  ""company"": ""UNIHAKKA INTERNATIONAL SDN BHD"",
+  ""date"": ""13 Mar 2018 18:35"",
+  ""address"": ""12, Jalan Tampoi 2/4, 54946 Perindustrian Tampoi, Johor Bahru, Johor"",
+  ""total"": ""58.20""
+}
+```"
+22,1,1,1,0,1,"```json
+{
+  ""company"": ""PASAR MINI JIN SENG"",
+  ""date"": ""03/03/18"",
+  ""address"": ""378, JALAN PERMAS SATU, BANDAR BARU PERNAS JAYA"",
+  ""total"": ""33.80""
+}
+```"
+23,1,0,1,0,1,"```json
+{
+  ""company"": ""YMH Aeon Tebrau City"",
+  ""date"": ""11/03/2018"",
+  ""address"": ""S117, Second Floor, Aeon Tebrau City, 1, Jalan Desa Tebrau, 81100 Johor Bahru, Johor."",
+  ""total"": ""49.70""
+}
+```"
+24,1,0,0,0,1,"```json
+{
+  ""company"": ""TONY ROMA'S AEON TEBRAU CITY GRAND COMPANIONS SDN BHD"",
+  ""date"": ""03 Mar 18"",
+  ""address"": ""LOT G112, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU"",
+  ""total"": ""269.40""
+}
+```"
+25,1,1,0,0,1,"```json
+{
+  ""company"": ""UNIHAKKA INTERNATIONAL SDN BHD"",
+  ""date"": ""28 Mar 2018 18:14"",
+  ""address"": ""12, Jalan Tampol 7/4 Kawasan Perindustrian Tampol8120 Johor Bahru,Johor"",
+  ""total"": ""$8.20""
+}
+```"
+26,1,1,1,0,1,"```json
+{
+  ""company"": ""YONG TAT HARDWARE TRADING"",
+  ""date"": ""13/03/2018"",
+  ""address"": ""NO 4, JALAN PERJURAN 10, TAMAN AIR BIRU, JOHOR"",
+  ""total"": ""72.00""
+}
+```"
+27,1,1,0,0,1,"```json
+{
+  ""company"": ""Triple Six Point Enterprise 666"",
+  ""date"": ""22-03-2018 04:20 PM"",
+  ""address"": ""No 148.16 Jalan Permas 4/3 Bandar Baru Permas Jaya"",
+  ""total"": ""22.60""
+}
+```"
+28,1,1,0,0,1,"```json
+{
+  ""company"": ""UNIHAKKA INTERNATIONAL SDN BHD"",
+  ""date"": ""25 Mar 2018 16:26"",
+  ""address"": ""12, Jalan Tempoi 7/4, Kawasan Perindustrian"",
+  ""total"": ""$8.50""
+}
+```"
+29,1,1,0,0,0,"```json
+{
+  ""company"": ""UNIHAKKA INTERNATIONAL SDN BHD"",
+  ""date"": ""20 Mar 2018 17:55"",
+  ""address"": ""12, Jalan Tampoi 7/4, Kawasan Perindustrian Tampoi, Johor Bahru, Johor"",
+  ""total"": ""$8.60""
+}
+```"
+30,1,0,0,0,0,"```json
+{
+  ""company"": ""PERMAS"",
+  ""date"": ""20/03/18 17:19"",
+  ""address"": ""15, JALAN PERMAS 10/7, PERMAS 81750 MASAT JOHOR"",
+  ""total"": ""RM 30.00""
+}
+```"
+31,1,0,1,0,1,"```json
+{
+  ""company"": ""B.I.G. (Bens Independent Grocer Sdn. Bhd)"",
+  ""date"": ""09/03/18"",
+  ""address"": ""Lot 6, Jalan Batai, Plaza Batai, Damansara Heights"",
+  ""total"": ""133.70""
+}
+```"
+32,1,0,1,0,1,"```json
+{
+  ""company"": ""B.I.G. Ber's Independent Grocer SDN. BHD"",
+  ""date"": ""08/03/18"",
+  ""address"": ""Plot 6, Jalan Batai, Plaza Batai, Damansara Heights 50490, Kuala Lumpur"",
+  ""total"": ""81.00""
+}
+```"
+33,1,1,1,0,1,"```json
+{
+  ""company"": ""99 SPEED MART S/B"",
+  ""date"": ""10-03-18"",
+  ""address"": ""41150 KLANG, SELANGOR"",
+  ""total"": ""5.35""
+}
+```"
+34,1,1,1,1,0,"```json
+{
+  ""company"": ""STAR GROCER SDN BHD"",
+  ""date"": ""25/03/18"",
+  ""address"": ""No 4, Desa Pandan, Off kampong Pandan, 55100 Kuala Lumpur"",
+  ""total"": ""66.17""
+}
+```"
+35,1,1,1,0,1,"```json
+{
+  ""company"": ""PASARAYA BORONG PINTAR SDN BHD"",
+  ""date"": ""09/03/2018"",
+  ""address"": ""BR No.: (124525-H) NO 19-G&19-18&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI"",
+  ""total"": ""10.40""
+}
+```"
+36,1,1,1,0,1,"```json
+{
+  ""company"": ""PASARAYA BORONG PINTAR SDN BHD"",
+  ""date"": ""14/03/2018"",
+  ""address"": ""BR No.: (124525-H)\nNO 19-G&19-1&19-2 JALAN TASIK UTAMA 4,\nMEDAN NIAGA TASIK DAMAI"",
+  ""total"": ""0.90""
+}
+```"
+37,1,0,1,0,0,"```json
+{
+  ""company"": ""RESTAURANT JIAWEI"",
+  ""date"": ""23/2/2018"",
+  ""address"": ""13, JLN IASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI 57000 KL"",
+  ""total"": ""RM 110.00""
+}
+```"
+38,1,1,0,0,1,"```json
+{
+  ""company"": ""PASARAYA BORONG PINTAR SDN BHD"",
+  ""date"": ""30/01/2018 14:48:23"",
+  ""address"": ""BR No.: (124525-H) NO 19-G&19-18-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI"",
+  ""total"": ""1.70""
+}
+```"
+39,1,1,1,0,1,"```json
+{
+  ""company"": ""PASARAYA BORONG PINTAR SDN BHD"",
+  ""date"": ""14/02/2018"",
+  ""address"": ""BR No.: (124525-H)\nNO 19-G&19-18&19-2 JALAN TASIK UTAMA 4, MEDAN NIAGA TASIK DAMAI"",
+  ""total"": ""1.45""
+}
+```"
+40,1,1,1,0,0,"```json
+{
+  ""company"": ""POPULAR BOOK CO. (M) SDN BHD"",
+  ""date"": ""23/12/17"",
+  ""address"": ""No. 8, Jalan 7/1188, Desa Tun Razak 56000 Kuala Lumpur, Malaysia"",
+  ""total"": ""-28.35""
+}
+```"
+41,1,1,1,1,0,"```json
+{
+  ""company"": ""POPULAR BOOK CO. (M) SDN BHD"",
+  ""date"": ""20/08/17"",
+  ""address"": ""No 8, Jalan 7/118B, Desa Tun Razak 56000 Kuala Lumpur, Malaysia"",
+  ""total"": ""-0.56""
+}
+```"
+42,1,1,1,0,1,"```json
+{
+  ""company"": ""EVERGREEN LIGHT SDN BHD"",
+  ""date"": ""10/07/2017"",
+  ""address"": ""NO.7-1, JALAN PUTERI 7/11, BANDAR PUTERI, 47100 PUCHONG, SELANGOR"",
+  ""total"": ""56.00""
+}
+```"
+43,1,1,0,0,1,"```json
+{
+  ""company"": ""HON HWA HARDWARE TRADING"",
+  ""date"": ""28/04/2017"",
+  ""address"": ""NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR"",
+  ""total"": ""7.20""
+}
+```"
+44,1,1,1,0,1,"```json
+{
+  ""company"": ""HON HWA HARDWARE TRADING"",
+  ""date"": ""11/02/2017"",
+  ""address"": ""NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR"",
+  ""total"": ""19.60""
+}
+```"
+45,1,1,1,0,1,"```json
+{
+  ""company"": ""HON HWA HARDWARE TRADING"",
+  ""date"": ""05/01/2017"",
+  ""address"": ""NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR"",
+  ""total"": ""5.00""
+}
+```"
+46,1,1,1,0,1,"```json
+{
+  ""company"": ""EVERGREEN LIGHT SDN BHD"",
+  ""date"": ""18/09/2017"",
+  ""address"": ""NO.7-1, JALAN PUTERI 7/11, BANDAR PUTERI,"",
+  ""total"": ""26.00""
+}
+```"
+47,1,1,1,1,1,"```json
+{
+  ""company"": ""VIVOPAC MARKETING SDN BHD"",
+  ""date"": ""17/01/2017"",
+  ""address"": ""14 JALAN MANIS 4 TAMAN SEGAR 56100 KL"",
+  ""total"": ""46.65""
+}
+```"
+48,1,1,1,1,1,"```json
+{
+  ""company"": ""VIVOPAC MARKETING SDN BHD"",
+  ""date"": ""13/09/2017"",
+  ""address"": ""14 JALAN MANIS 4 TAMAN SEGAR 56100 KL"",
+  ""total"": ""52.45""
+}
+```"
+49,1,1,1,1,1,"```json
+{
+  ""company"": ""FY EAGLE ENTERPRISE"",
+  ""date"": ""07/12/2017"",
+  ""address"": ""NO. 42, JALAN PBS 14/11, TAMAN PERINDUSTRIAN BUKIT SERDANG, 43300 SERI KEMBANGAN, SELANGOR"",
+  ""total"": ""10.00""
+}
+```"
