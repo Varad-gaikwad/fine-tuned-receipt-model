@@ -27,7 +27,7 @@ There is no hosted version: the model needs an NVIDIA GPU, and keeping one runni
 
 ### 1. Set up the notebook
 
-- Create a new Kaggle notebook (or open the project notebook: `https://github.com/Varad-gaikwad/fine-tuned-receipt-model/blob/main/app.ipynb`.
+- Create a new Kaggle notebook (or open the project notebook: https://github.com/Varad-gaikwad/fine-tuned-receipt-model/blob/main/app.ipynb.
 - In **Settings**, set **Accelerator** to **GPU T4 x2**. Do not pick P100: Unsloth needs compute capability 7.0 or higher.
 - In **Settings**, turn **Internet** on (needed for `pip`, model download and the Gradio link).
 
