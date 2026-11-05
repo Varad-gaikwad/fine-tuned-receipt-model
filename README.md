@@ -16,7 +16,7 @@ Built for the HacktoberFest HackDay, Theme 3 (Fine-Tuning Gemma), Problem 3B.
 ```
 <img width="1710" height="868" alt="image" src="https://github.com/user-attachments/assets/06352cbb-2ec2-4109-b026-4715919aac83" />
 
-<!-- TODO: add a screenshot or GIF of the demo: ![demo](assets/demo.gif) -->
+
 
 ---
 
@@ -87,8 +87,6 @@ Measured on **361 held-out test receipts** (the full test split of the Hugging F
 | total | 90.3 |
 | **average** | **84.8** |
 
-<!-- TODO: add per-field plain-model numbers (exact and fuzzy) and per-field fuzzy numbers for the fine-tuned model. -->
-
 ### Detailed-prompt baseline
 
 The plain model with a detailed prompt was run on the **first 100 test receipts only**. It scored **70.5** average accuracy, against **88.8** for the fine-tuned model on the same 100. This subset differs from the 361-receipt headline, so do not compare 70.5 directly with 72.6.
@@ -125,7 +123,6 @@ The first run (free Colab T4) used 240 training receipts and 150 test receipts. 
 | Dataset | [`jsdnrs/ICDAR2019-SROIE`](https://huggingface.co/datasets/jsdnrs/ICDAR2019-SROIE) (Malaysian retail receipts) |
 | Training data | 566 receipts. TODO: state whether this is the full train split |
 | Test data | 361 receipts (full test split) |
-| Image preprocessing | Long side resized to at most `TODO` px, same for training and evaluation |
 | Training schedule | TODO: steps or epochs, batch size, learning rate, optimiser. (First run: 60 steps, effective batch 4, 8-bit AdamW, learning rate 2e-4, cosine) |
 | Training target | JSON of the four fields |
 | Hardware | Kaggle GPU: TODO (type, training time) |
