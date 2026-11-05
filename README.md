@@ -123,7 +123,6 @@ The first run (free Colab T4) used 240 training receipts and 150 test receipts. 
 | Dataset | [`jsdnrs/ICDAR2019-SROIE`](https://huggingface.co/datasets/jsdnrs/ICDAR2019-SROIE) (Malaysian retail receipts) |
 | Training data | 566 receipts. TODO: state whether this is the full train split |
 | Test data | 361 receipts (full test split) |
-| Training schedule | TODO: steps or epochs, batch size, learning rate, optimiser. (First run: 60 steps, effective batch 4, 8-bit AdamW, learning rate 2e-4, cosine) |
 | Training target | JSON of the four fields |
 | Hardware | Kaggle GPU: TODO (type, training time) |
 | Framework | [Unsloth](https://github.com/unslothai/unsloth), TRL `SFTTrainer` |
