@@ -14,6 +14,7 @@ Built for the HacktoberFest HackDay, Theme 3 (Fine-Tuning Gemma), Problem 3B.
   "total": "170.00"
 }
 ```
+<img width="1710" height="868" alt="image" src="https://github.com/user-attachments/assets/06352cbb-2ec2-4109-b026-4715919aac83" />
 
 <!-- TODO: add a screenshot or GIF of the demo: ![demo](assets/demo.gif) -->
 
